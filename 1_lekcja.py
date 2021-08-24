@@ -6,3 +6,4 @@ b = input("Podaj liczbę B: ")
 
 print(int(a) + int(b))
 
+#czesc
