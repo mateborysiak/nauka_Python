@@ -25,3 +25,5 @@ elif c =='d':
     print(a/b)
 else:
     print("Wprowadź poprawną operację!")
+
+#sprawdzam git
